@@ -18,4 +18,4 @@ def display_board
   print "|"
   print "   "
 end
-
+print display_board
