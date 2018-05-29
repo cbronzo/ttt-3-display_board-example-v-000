@@ -5,5 +5,5 @@ def display_board
   print "   "
   print "|"
   print "   "
-  puts ""
+  puts "-----------"
 end
